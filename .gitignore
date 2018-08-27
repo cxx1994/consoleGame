@@ -1,0 +1,17 @@
+# 日志
+logs
+*.log
+
+# 依赖包
+node_modules
+
+# eslint & jshint
+.eslintrc.json
+.jshintrc
+
+#打包文件
+#static
+
+# 编辑器生成的文件夹
+.idea
+.DS_Store
